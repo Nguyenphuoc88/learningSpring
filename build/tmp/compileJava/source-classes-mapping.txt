@@ -1,0 +1,24 @@
+dependencyInjection/Outfit.java
+ dependencyInjection.Outfit
+dependencyInjection/Accessories.java
+ dependencyInjection.Accessories
+dependencyInjection/HairStyles.java
+ dependencyInjection.HairStyles
+ApplicationTest.java
+ ApplicationTest
+dependencyInjection/Human.java
+ dependencyInjection.Human
+autoWiredAndComponent/Bikini.java
+ autoWiredAndComponent.Bikini
+dependencyInjection/Tshirt.java
+ dependencyInjection.Tshirt
+looseCoupling/SortAlgorithm.java
+ looseCoupling.SortAlgorithm
+looseCoupling/QuickSortAlgorithm.java
+ looseCoupling.QuickSortAlgorithm
+looseCoupling/Services.java
+ looseCoupling.Services
+looseCoupling/BubbleSortAlgorithm.java
+ looseCoupling.BubbleSortAlgorithm
+autoWiredAndComponent/App.java
+ autoWiredAndComponent.App
